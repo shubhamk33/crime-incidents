@@ -1,0 +1,2 @@
+# crime-incidents
+The Web Application takes data from a JSON file incidentsData and plots all the crime incidents in the State of California using Google Maps. It adds a marker on the map for each crime for showing the location co-ordinates, place where the crime happened, type of crime, full description of crime, day, date and time when the crime happened. It also shows an  InfoWindow when we click on any crime thus showing all its details..
